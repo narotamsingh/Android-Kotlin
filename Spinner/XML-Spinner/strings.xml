@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Xml-Spinner</string>
+    <string-array name="spinner_values">
+        <item>Paris</item>
+        <item>Dubai</item>
+        <item>New York</item>
+        <item>Singapore</item>
+        <item>Kuala Lumpur</item>
+        <item>Istanbul</item>
+        <item>Tokyo</item>
+        <item>Seoul</item>
+    </string-array>
+</resources>
